@@ -1,0 +1,53 @@
+#outer{
+    height: 600px;
+    width: 1500px;
+    border: 2px solid black;
+    background-image: url(0.webp);
+}
+#inner{
+    height: 80px;
+    width: 270px;
+    border: 2px solid azure;
+    margin-top: 250px;
+    margin-left: 600px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+    letter-spacing: 5px;
+    color: azure;
+}
+#navbar{
+    margin-top: 220px;
+    height: 200px;
+    width: 1500px;
+    border: 2px solid white;
+    background-color: gray;
+    padding-left: 600px;
+}
+#nav{
+    margin-top: 50px;
+}
+.home{
+    font-size: x-large;
+    color: black;
+    margin-top: 300px;
+    justify-content: center;
+    padding: 7px;
+}
+#images{
+    height: 1000px;
+    width: 1500px;
+    border: 2px soliod black;
+}
+.first{
+    margin-top: 50px;
+    height: 450px;
+    width: 800px;
+    border: 2px solid white;
+} 
+.second{
+   margin-left: 350px;
+    height: 450px;
+    width: 800px;
+    border: 2px solid black;
+}
